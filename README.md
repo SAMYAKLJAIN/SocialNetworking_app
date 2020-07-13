@@ -15,4 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-App Screenshots below : https://github.com/SAMYAKLJAIN/message_app/issues/1#issue-529128882
+App Screenshots : https://github.com/SAMYAKLJAIN/message_app/issues/1#issue-529128882
+
+
+App demo video : https://github.com/SAMYAKLJAIN/message_app/issues/2
