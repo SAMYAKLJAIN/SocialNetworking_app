@@ -1,7 +1,15 @@
 # Youtube
 
  https://www.youtube.com/watch?v=UzfXypnURo0&feature=youtu.be
+ 
+ 
+ ## Objectives
 
+• Chat application in Flutter using Firebase as backend services
+• It’s cloud-based instant messaging.
+• It is a messaging app with a focus on speed and security.
+• Custom Layout with interactive interface to improve your UI and UX .
+• Technology worked on: Flutter, firebase.
 
 
 # My work
