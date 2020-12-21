@@ -14,7 +14,7 @@
 
 ![alt text](https://github.com/SAMYAKLJAIN/SocialNetworking_app/blob/master/flutter%20app/signup.jpeg)
 
-## Administrator
+## Administrator Home Page 
 ![alt text](https://github.com/SAMYAKLJAIN/SocialNetworking_app/blob/master/flutter%20app/Admin_home.jpeg)
 
 ## Administrator message
